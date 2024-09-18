@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<p>Quiz App is a javascript web application that is a game and asks questions to the players who if they answer correctly, they get ten points for each question. Trivia API was used in this project, which I have explained at the bottom of the README. I would like to talk about the Quiz App project itself, it is that when the project is run, there are three buttons, one of which runs the game and asks the user ten questions and saves the score according to the number of questions answered and Another button determines the level of the questions and the third button displays the highest scores.</p>
+<p>The Quiz App is a JavaScript web game that asks players trivia questions, awarding 10 points for each correct answer. The Trivia API was used in this project, with details provided at the bottom of the README. The project features three buttons: one starts the game and presents ten questions, saving the score based on correct answers; another sets the difficulty level; and the third displays the highest scores.</p>
 
 
 
