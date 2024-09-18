@@ -16,6 +16,8 @@
   </a>
 </p>
 <br>
+<hr>
 <h3 align="left">Api :</h3>
 <p align="left">It is our opentdb api that we receive questions from this api, which has many questions in all types of categories.</p>
-<a href="https://opentdb.com" align="left"><h5>https://opentdb.com</h5></a>
+- [Open Trivia Database:] https://opentdb.com 
+
