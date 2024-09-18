@@ -6,6 +6,8 @@
 <br>
 
 <p>The Quiz App is a JavaScript web game that asks players trivia questions, awarding 10 points for each correct answer. The Trivia API was used in this project, with details provided at the bottom of the README. The project features three buttons: one starts the game and presents ten questions, saving the score based on correct answers; another sets the difficulty level; and the third displays the highest scores.</p>
+<br>
+<h3><a href="https://quiz-app-plum-eta.vercel.app">View Quiz App</a></h3>
 
 
 
